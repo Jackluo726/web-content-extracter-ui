@@ -1,0 +1,3 @@
+([('web_fetcher',
+   '/Users/jackluo/PycharmProjects/HtmlContent/dist/web_fetcher',
+   'EXECUTABLE')],)
